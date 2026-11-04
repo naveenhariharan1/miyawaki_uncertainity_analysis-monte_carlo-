@@ -1,0 +1,17 @@
+,Value
+GroupID,11_2
+N_simulations,25000
+Random_seed,20261104
+Measured_tree_count_in_primary_run,20
+Stem_measurement_count,22
+Excluded_unmeasurable_count,5
+Tree550_included,True
+DBH_CV,0.025
+Height_CV,0.1
+Wood_density_lognormal_CV,0.1
+Chave_residual_log_sigma,0.357
+Carbon_fraction,0.47
+Chave_bias_correction,None; lecture's approx. 5% overestimation tendency reported separately
+Equation,AGB = 0.0673 * (rho * DBH^2 * H)^0.976
+Wood_density_sampling,"One lognormal draw per species per iteration, shared by all same-species trees"
+Residual_sampling,"Independent epsilon ~ Normal(0, 0.357^2) per measured stem per iteration; multiplier exp(epsilon)"

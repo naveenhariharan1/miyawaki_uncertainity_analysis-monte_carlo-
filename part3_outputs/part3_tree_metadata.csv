@@ -1,0 +1,21 @@
+TreeID,Species,Density_species_key,Wood_density_mean_g_cm3,Is_bamboo_clump,Culms_count,Recorded_stem_count,Comment
+526,Dalbergia sissoo,dalbergia sissoo,0.76,False,1,1,
+527,Swietenia mahagoni,switenia mahagony (l.) jacq.,0.51,False,1,1,
+528,Lagerstroemia speciosa,lagerstroemia speciosa,0.64,False,1,1,
+529,Terminalia bellirica,terminalia bellirica,0.76,False,1,1,
+530,Simarouba glauca,simarauba glauca dc.,0.35,False,1,1,
+531,Swietenia mahagoni,switenia mahagony (l.) jacq.,0.51,False,1,1,Bamboo leaves were blocking the top view so it can have error
+532,Pongamia pinnata,pongamia pinnata,0.64,False,1,2,
+533,Simarouba glauca,simarauba glauca dc.,0.35,False,1,1,
+537,Bambusa vulgaris,bambusa vulgaris,0.77,True,5,1,
+538,Swietenia mahagoni,switenia mahagony (l.) jacq.,0.51,False,1,1,
+539,Swietenia mahagoni,switenia mahagony (l.) jacq.,0.51,False,1,1,
+540,Cascabela thevetia,cascabela thevetia,0.72,False,1,1,
+541,Simarouba glauca,simarauba glauca dc.,0.35,False,1,1,
+543,Terminalia bellirica,terminalia bellirica,0.76,False,1,2,There is a third stem but damaged.
+544,Swietenia mahagoni,switenia mahagony (l.) jacq.,0.51,False,1,1,
+545,Swietenia mahagoni,switenia mahagony (l.) jacq.,0.51,False,1,1,
+546,Swietenia mahagoni,switenia mahagony (l.) jacq.,0.51,False,1,1,
+548,Gliricidia sepium,gliricidia sepium,0.74,False,1,1,
+549,Cassia fistula,cassia fistula,0.96,False,1,1,
+550,Simarouba glauca,simarauba glauca dc.,0.35,False,1,1,No leaves observed. Soit may be dead

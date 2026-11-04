@@ -1,0 +1,23 @@
+TreeID,Species,Density_species_key,Wood_density_mean_g_cm3,Stem_number,CBH_cm,DBH_cm,Height_m,Is_bamboo_clump,Culms_count,Tree_comment,Below_5cm_Chave_domain_flag,Data_note
+526,Dalbergia sissoo,dalbergia sissoo,0.76,1,12.0,3.819718634205488,6.1,False,1,,True,"DBH below 5 cm calibration threshold reported in lecture; retained as required, interpret cautiously"
+527,Swietenia mahagoni,switenia mahagony (l.) jacq.,0.51,1,25.0,7.957747154594767,6.85,False,1,,False,
+528,Lagerstroemia speciosa,lagerstroemia speciosa,0.64,1,20.2,6.429859700912572,5.8,False,1,,False,
+529,Terminalia bellirica,terminalia bellirica,0.76,1,23.8,7.575775291174218,7.66,False,1,,False,
+530,Simarouba glauca,simarauba glauca dc.,0.35,1,27.8,8.849014835909381,5.61,False,1,,False,
+531,Swietenia mahagoni,switenia mahagony (l.) jacq.,0.51,1,23.0,7.321127382227186,6.34,False,1,Bamboo leaves were blocking the top view so it can have error,False,
+532,Pongamia pinnata,pongamia pinnata,0.64,1,9.0,2.864788975654116,3.5,False,1,,True,"DBH below 5 cm calibration threshold reported in lecture; retained as required, interpret cautiously"
+532,Pongamia pinnata,pongamia pinnata,0.64,2,8.0,2.5464790894703255,2.3,False,1,,True,"DBH below 5 cm calibration threshold reported in lecture; retained as required, interpret cautiously"
+533,Simarouba glauca,simarauba glauca dc.,0.35,1,16.6,5.283944110650926,4.8,False,1,,False,
+537,Bambusa vulgaris,bambusa vulgaris,0.77,1,9.0,2.864788975654116,4.95,True,5,,True,"DBH below 5 cm calibration threshold reported in lecture; retained as required, interpret cautiously"
+538,Swietenia mahagoni,switenia mahagony (l.) jacq.,0.51,1,21.0,6.684507609859605,8.4,False,1,,False,
+539,Swietenia mahagoni,switenia mahagony (l.) jacq.,0.51,1,30.6,9.740282517223996,9.4,False,1,,False,
+540,Cascabela thevetia,cascabela thevetia,0.72,1,18.8,5.984225860255265,4.4,False,1,,False,
+541,Simarouba glauca,simarauba glauca dc.,0.35,1,11.8,3.75605665696873,4.6,False,1,,True,"DBH below 5 cm calibration threshold reported in lecture; retained as required, interpret cautiously"
+543,Terminalia bellirica,terminalia bellirica,0.76,1,5.6,1.7825353626292277,1.7,False,1,There is a third stem but damaged.,True,"DBH below 5 cm calibration threshold reported in lecture; retained as required, interpret cautiously; only two measured stems included; third damaged stem was not measured"
+543,Terminalia bellirica,terminalia bellirica,0.76,2,2.2,0.7002817496043395,1.7,False,1,There is a third stem but damaged.,True,"DBH below 5 cm calibration threshold reported in lecture; retained as required, interpret cautiously; only two measured stems included; third damaged stem was not measured"
+544,Swietenia mahagoni,switenia mahagony (l.) jacq.,0.51,1,20.0,6.366197723675814,7.5,False,1,,False,
+545,Swietenia mahagoni,switenia mahagony (l.) jacq.,0.51,1,10.0,3.183098861837907,4.7,False,1,,True,"DBH below 5 cm calibration threshold reported in lecture; retained as required, interpret cautiously"
+546,Swietenia mahagoni,switenia mahagony (l.) jacq.,0.51,1,8.6,2.7374650211805998,3.3,False,1,,True,"DBH below 5 cm calibration threshold reported in lecture; retained as required, interpret cautiously"
+548,Gliricidia sepium,gliricidia sepium,0.74,1,38.8,12.350423583931077,9.6,False,1,,False,
+549,Cassia fistula,cassia fistula,0.96,1,8.0,2.5464790894703255,2.6,False,1,,True,"DBH below 5 cm calibration threshold reported in lecture; retained as required, interpret cautiously"
+550,Simarouba glauca,simarauba glauca dc.,0.35,1,15.0,4.7746482927568605,3.5,False,1,No leaves observed. Soit may be dead,True,"DBH below 5 cm calibration threshold reported in lecture; retained as required, interpret cautiously"
